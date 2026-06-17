@@ -160,3 +160,7 @@ Check the workflow logs. The job now prints the full Claude CLI output and only 
 ## License
 
 MIT
+
+## Maintenance
+
+Last updated: 2026.06.17
